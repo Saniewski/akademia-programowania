@@ -1,0 +1,55 @@
+2023-03-27 17:52:30.554845 +0200 CEST m=+0.827918626
+
+POSTS:
+Who's Hiring? - March 2023
+https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
+Go GUI vs. Browser
+https://www.reddit.com/r/golang/comments/123fkup/go_gui_vs_browser/
+End to end example API written in Go
+https://www.reddit.com/r/golang/comments/123ke83/end_to_end_example_api_written_in_go/
+OpenBLAS bindings for Go
+https://www.reddit.com/r/golang/comments/123oswj/openblas_bindings_for_go/
+What is the default timezone for Go’s log package? (For logged messages)
+https://www.reddit.com/r/golang/comments/123d1c3/what_is_the_default_timezone_for_gos_log_package/
+JSON array with two different json objects
+https://www.reddit.com/r/golang/comments/123nud0/json_array_with_two_different_json_objects/
+Which CPU to buy based on profiling
+https://www.reddit.com/r/golang/comments/123dsx0/which_cpu_to_buy_based_on_profiling/
+tint: 🌈 slog.Handler that writes tinted logs
+https://github.com/lmittmann/tint
+Kivi - Distributed dynamo-style database for educational purposes written in Go
+https://github.com/maxpoletaev/kivi
+6 ways to boost the performance of your Go applications
+https://www.reddit.com/r/golang/comments/122jnay/6_ways_to_boost_the_performance_of_your_go/
+Where exactly should I put my golang interface at?
+https://www.reddit.com/r/golang/comments/123h3m9/where_exactly_should_i_put_my_golang_interface_at/
+Web Development em Go - Parte 07 - Block vs Template #golang #webdevelopment (PT-BR)
+https://youtube.com/watch?v=X9pQj6xWwjk&amp;feature=share
+The Importance of gRPC Monitoring for High-Performance Systems
+https://www.groundcover.com/blog/grpc-monitoring
+Immutable references in Go?
+https://www.reddit.com/r/golang/comments/122yh0z/immutable_references_in_go/
+shift: high-performance HTTP router for Go
+https://www.reddit.com/r/golang/comments/122gzep/shift_highperformance_http_router_for_go/
+How to get Profiling Right with Go?
+https://blog.pickme.lk/how-to-get-profiling-right-with-go-813ff89d4757
+Is this Automatic Pointer Dereferencing?
+https://www.reddit.com/r/golang/comments/122q6hd/is_this_automatic_pointer_dereferencing/
+Host used for Reverse Proxy throwing 404
+https://www.reddit.com/r/golang/comments/1236slo/host_used_for_reverse_proxy_throwing_404/
+API load testing with gin gonic
+https://www.reddit.com/r/golang/comments/122vtwt/api_load_testing_with_gin_gonic/
+Tools besides Go for a newbie
+https://www.reddit.com/r/golang/comments/122s8h5/tools_besides_go_for_a_newbie/
+httputil.ReverseProxy: Director vs Rewrite
+https://www.reddit.com/r/golang/comments/1234vyd/httputilreverseproxy_director_vs_rewrite/
+new project with go - need inputs / boilerplate?
+https://www.reddit.com/r/golang/comments/122srqt/new_project_with_go_need_inputs_boilerplate/
+Best Practice: Callback Return Values
+https://www.reddit.com/r/golang/comments/1232a1d/best_practice_callback_return_values/
+Running into some trouble with gazelle and proto imports
+https://old.reddit.com/r/AskProgramming/comments/12311jp/error_with_golang_bazelgazelle_and_proto_imports/?ref=share&amp;ref_source=link
+Database transaction management
+https://www.reddit.com/r/golang/comments/122qv84/database_transaction_management/
+My believe that Golang will grow in demand and how maybe this is ruining my pay increase
+https://www.reddit.com/r/golang/comments/1221z1i/my_believe_that_golang_will_grow_in_demand_and/
