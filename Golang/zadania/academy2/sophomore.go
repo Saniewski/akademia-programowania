@@ -49,7 +49,7 @@ func (s Sophomore) attendancePercentage() float64 {
 // and an average grade from the semester, with adjustments based
 // on the student's attendance. The final grade is rounded
 // to the nearest integer.
-
+//
 // If the student's attendance is below 80%, the final grade is
 // decreased by 1. If the student's attendance is below 60%, average
 // grade is 1 or project grade is 1, the final grade is 1.
