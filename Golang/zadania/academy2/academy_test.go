@@ -10,7 +10,7 @@ type test struct {
 	mockRepository func(t *testing.T) *MockRepository
 }
 
-func Test_GradeYear(t *testing.T) {
+func TestGradeYear(t *testing.T) {
 	tests := []test{
 		{
 			name: "No students",
@@ -65,7 +65,7 @@ func Test_GradeYear(t *testing.T) {
 	}
 }
 
-func Test_GradeStudent(t *testing.T) {
+func TestGradeStudent(t *testing.T) {
 	tests := []test{
 		{
 			name: "Student does not exist",
